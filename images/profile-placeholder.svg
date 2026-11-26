@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 880" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">Abstract portrait placeholder to replace with your own photograph</desc>
+  <rect width="720" height="880" fill="#c9c0b2"/>
+  <circle cx="360" cy="332" r="138" fill="#252923"/>
+  <path d="M99 880c18-213 119-329 261-329s243 116 261 329" fill="#df5b37"/>
+  <path d="M239 314c12-103 63-155 153-155 55 0 102 34 128 94-68-13-130 6-189 58-32 28-62 35-92 3Z" fill="#d8e653"/>
+  <circle cx="308" cy="335" r="8" fill="#f4f0e8"/>
+  <circle cx="414" cy="335" r="8" fill="#f4f0e8"/>
+  <path d="M326 403c24 17 48 17 72 0" fill="none" stroke="#f4f0e8" stroke-linecap="round" stroke-width="9"/>
+  <g fill="#f4f0e8" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="360" y="758" font-size="28" font-weight="700" letter-spacing="3">YOUR PHOTO HERE</text>
+    <text x="360" y="796" font-size="17" opacity=".78">Replace this file in /images</text>
+  </g>
+</svg>

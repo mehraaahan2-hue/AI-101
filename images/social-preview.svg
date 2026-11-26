@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Social sharing preview placeholder</title>
+  <desc id="desc">Portfolio social preview to replace with your name and details</desc>
+  <rect width="1200" height="630" fill="#f4f0e8"/>
+  <circle cx="1035" cy="-20" r="310" fill="#df5b37"/>
+  <circle cx="1035" cy="-20" r="185" fill="#d8e653"/>
+  <text x="82" y="125" fill="#df5b37" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">PERSONAL PORTFOLIO</text>
+  <text x="75" y="310" fill="#1d211d" font-family="Georgia, serif" font-size="112" font-style="italic">Aahan Mehra</text>
+  <text x="82" y="395" fill="#64675f" font-family="Arial, sans-serif" font-size="35">Learning how to use AI</text>
+  <line x1="82" y1="480" x2="1118" y2="480" stroke="#1d211d" stroke-opacity=".25"/>
+  <text x="82" y="535" fill="#1d211d" font-family="Arial, sans-serif" font-size="23" font-weight="700">CURIOSITY · QUESTIONS · PROGRESS</text>
+</svg>

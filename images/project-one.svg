@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Project one image placeholder</title>
+  <rect width="1200" height="800" fill="#b9c6b1"/>
+  <circle cx="925" cy="179" r="245" fill="#df5b37"/>
+  <rect x="95" y="106" width="575" height="586" rx="8" fill="#f4f0e8"/>
+  <rect x="150" y="168" width="226" height="17" fill="#252923"/>
+  <rect x="150" y="215" width="407" height="8" fill="#8c8d85"/>
+  <rect x="150" y="241" width="358" height="8" fill="#8c8d85"/>
+  <rect x="150" y="302" width="465" height="256" fill="#d8e653"/>
+  <text x="150" y="636" fill="#252923" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3">PERSONAL PORTFOLIO</text>
+</svg>

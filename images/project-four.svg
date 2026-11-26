@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Project four image placeholder</title>
+  <rect width="1200" height="800" fill="#252923"/>
+  <g transform="translate(103 90)">
+    <rect width="994" height="620" rx="24" fill="#f4f0e8"/>
+    <rect width="994" height="62" rx="24" fill="#df5b37"/>
+    <circle cx="35" cy="31" r="8" fill="#252923"/>
+    <circle cx="63" cy="31" r="8" fill="#d8e653"/>
+    <rect x="61" y="126" width="320" height="375" fill="#b9c6b1"/>
+    <rect x="430" y="128" width="404" height="26" fill="#252923"/>
+    <rect x="430" y="188" width="470" height="9" fill="#8c8d85"/>
+    <rect x="430" y="222" width="405" height="9" fill="#8c8d85"/>
+    <rect x="430" y="297" width="185" height="52" rx="26" fill="#d8e653"/>
+    <text x="497" y="575" fill="#252923" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3" text-anchor="middle">PROJECT IMAGE 04</text>
+  </g>
+</svg>
